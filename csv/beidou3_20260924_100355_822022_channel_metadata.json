@@ -1,0 +1,15 @@
+{
+  "run_id": "beidou3_20260924_100355_822022",
+  "rows": 5001,
+  "phase_mode": "ideal_compensated",
+  "fc_hz": 2.0E+9,
+  "beam_gain_db": 30,
+  "K_db": 12,
+  "scatter_correlation_s": 0.02,
+  "random_seed": 2026,
+  "matlab_version": "24.2.0.2712019 (R2024b)",
+  "valid_gain_rows": 5001,
+  "gain_min_db": -162.26986228520371,
+  "gain_max_db": -152.00490700408065,
+  "note": "Offline narrowband correlated Rician baseline; ideal Doppler compensation; not a full 5G NTN waveform"
+}
